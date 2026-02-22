@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(160deg, #f6f8fb 0%, #eef3f8 60%, #e7f4f2 100%);
+  color: #12223a;
+}

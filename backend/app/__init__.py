@@ -1,0 +1,2 @@
+"""LogLens FastAPI application package."""
+
